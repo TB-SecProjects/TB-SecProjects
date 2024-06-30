@@ -42,10 +42,16 @@ As a cybersecurity enthusiast, I am passionate about protecting systems and data
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project.
 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
-- [![LinkedIn](assets/linkedin-logo.png)](https://www.linkedin.com/in/your-linkedin-profile/)
+  
+<a href="https://www.linkedin.com/in/trevor-biroschik-348b50314">
+   <img src="LI-Logo.png" alt="LinkedIn" width="125" height="35" style="float: left; margin-right: 10px;">
+</a>
+<div style="img-align: right; margin-top: 0px; margin-right: 0px;">
+   <a href="https://www.linkedin.com/in/trevor-biroschik-348b50314">
+      <img src="GitHub_Logo_White.png" alt="Github" width="125" height="40">
+   </a>
+</div>
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [@your-username](https://github.com/your-username)
 
 ---
 
