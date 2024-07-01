@@ -1,4 +1,4 @@
-# Cybersecurity Projects
+# Cybersecurity Projects (WORK IN PROGRESS)
 
 Welcome to my Cybersecurity Projects repository! Here, you'll find a collection of my work in the field of cybersecurity. Each project demonstrates my skills and knowledge in various areas, including network security, penetration testing, cryptography, and more.
 
@@ -47,7 +47,7 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
    <img src="LI-Logo.png" alt="LinkedIn" width="125" height="35" style="float: left; margin-right: 10px;">
 </a>
 <div style="img-align: right; margin-top: 0px; margin-right: 0px;">
-   <a href="https://www.linkedin.com/in/trevor-biroschik-348b50314">
+   <a href="https://github.com/TB-SecProjects">
       <img src="GitHub_Logo_White.png" alt="Github" width="125" height="40">
    </a>
 </div>
