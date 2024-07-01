@@ -1,5 +1,4 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-theme: jekyll-theme-minimal
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
@@ -41,9 +40,10 @@ jobs:
 
   # Deployment job
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  theme: jekyll-theme-minimal
+      environment:
+        name: github-pages
+        url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
