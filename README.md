@@ -5,7 +5,7 @@ Welcome to my Cybersecurity Projects repository! Here, you'll find a collection 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-   - [Project 1: Network Security Analysis](#project-1-network-security-analysis)
+   - [Project 1: Capturing Traffic of an Nmap Scan Using Wireshark](#project-1-capturing-traffic-of-an-nmap-scan-using-wireshark)
    - [Project 2: Penetration Testing Toolkit](#project-2-penetration-testing-toolkit)
    - [Project 3: Cryptography Implementations](#project-3-cryptography-implementations)
 3. [Contact](#contact)
