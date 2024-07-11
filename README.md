@@ -6,11 +6,11 @@ Welcome to my Cybersecurity Projects repository! Here, you'll find a collection 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
    - [Project 1: Capturing Traffic of an Nmap Scan Using Wireshark](#project-1-capturing-traffic-of-an-nmap-scan-using-wireshark)
-   - [Project 2: Penetration Testing Toolkit](#project-2-penetration-testing-toolkit)
-   - [Project 3: Cryptography Implementations](#project-3-cryptography-implementations)
+   - [Project 2: How to Setup and Configure Metasploitable](#project-2-how-to-setup-and-configure-metasploitable)
+   - [Project 3: How to Setup a Raspberry-Pi](#project-3-how-to-setup-a-raspberry-pi)
 3. [Contact](#contact)
 
-## [Introduction](#introduction)
+## Introduction
 
 As a cybersecurity enthusiast, I am passionate about learning new skills to be able solve difficult challenges and figuring out a solution to provide a secure environment. This repository showcases some of my key projects that reflect my expertise and dedication to the field. Each project includes a brief description with information on the objectives, methodologies, and outcomes.
 
@@ -30,18 +30,17 @@ As a cybersecurity enthusiast, I am passionate about learning new skills to be a
 - **Skills**: Virtualization, Vulnerability assessment
 - **Repository**: [How to Setup and Configure Metasploitable](https://github.com/your-username/penetration-testing-toolkit)
 
-### Project 3: Cryptography Implementations
-**Description**: Implementation of various cryptographic algorithms in Python. The project includes encryption and decryption examples, key generation, and digital signatures.
+### Project 3: How to Setup a Raspberry-Pi
+**Description**: Setting up and configuring a raspberry-pi, which is essentially an in-home DNS filter and ad blocker.
 
-- **Tools**: Python, PyCryptodome
-- **Skills**: Cryptographic algorithms, Secure coding
-- **Repository**: [Cryptography Implementations](https://github.com/your-username/cryptography-implementations)
+- **Tools**: Raspberry-Pi, Raspberry Pi OS Imager
+- **Skills**: Imaging, DNS, SSH, Scripting
+- **Repository**: [How to Setup a Raspberry-Pi](https://github.com/your-username/cryptography-implementations)
 
 ## Contact
 
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project.
+Feel free to reach out to me on LinkedIn if you have any questions or if you'd like to collaborate on a project!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
   
 <a href="https://www.linkedin.com/in/trevor-biroschik-348b50314">
    <img src="LI-Logo.png" alt="LinkedIn" width="125" height="35" style="float: left; margin-right: 10px;">
